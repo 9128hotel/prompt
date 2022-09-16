@@ -1,8 +1,8 @@
-# project Information
+# Project Information
 
 project still in early development. it bypasses block on windows CMD. it doesn’t have many QOL features. If you don't like it, i don't care.
 
-# commands
+# Commands
 
 test : Pings localhost. if this fails someone found a way to block code, or code broke. send me a screenshot if this happens and i *may* fix it.
 
@@ -10,10 +10,10 @@ license : licenses and credits. "credit" also does this because people couldn't 
 
 there are some easter *eggs* (not bugs, features!)
 
-# known issues
+# Known Issues
 
 Нет, code is fine.
 
-# contact Me
+# Contact Me
 
 email in GitHub bio.

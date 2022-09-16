@@ -1,19 +1,19 @@
-# Project Information
+# project Information
 
-Project still in early development. It bypasses a block on windows CMD, nothing more. It doesn’t have many QOL features. If you don't like it: {put something here}
+project still in early development. it bypasses block on windows CMD. it doesn’t have many QOL features. If you don't like it, i don't care.
 
-# Commands
+# commands
 
-test : Pings localhost as a test. If this fails that means either someone found a way to block it, or the code broke down. Send me a screenshot if this happens and I’ll fix it.
+test : Pings localhost. if this fails someone found a way to block code, or code broke. send me a screenshot if this happens and i *may* fix it.
 
-license : Outputs the license and credits
+license : licenses and credits. "credit" also does this because people couldn't remember the difference.
 
-There are some easter *eggs* (not bugs, features!).
+there are some easter *eggs* (not bugs, features!)
 
-# Known issues
+# known issues
 
 Нет, code is fine.
 
-# Contact Me
+# contact Me
 
-Email in GitHub bio.
+email in GitHub bio.
